@@ -1,1 +1,1 @@
-{"version":1,"functions":{"/order":{},"/":{},"/profile":{},"/signin":{},"/signup":{},"/error":{},"/contact":{},"/admin":{}}}
+{"version":1,"functions":{"/admin":{},"/error":{},"/":{},"/signin":{},"/signup":{},"/order":{},"/contact":{},"/profile":{}}}

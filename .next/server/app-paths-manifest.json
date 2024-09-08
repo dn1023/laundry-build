@@ -1,11 +1,11 @@
 {
   "/_not-found": "app/_not-found.js",
-  "/contact/page": "app/contact/page.js",
-  "/admin/page": "app/admin/page.js",
-  "/error/page": "app/error/page.js",
+  "/order/page": "app/order/page.js",
   "/page": "app/page.js",
   "/profile/page": "app/profile/page.js",
-  "/order/page": "app/order/page.js",
   "/signin/page": "app/signin/page.js",
-  "/signup/page": "app/signup/page.js"
+  "/signup/page": "app/signup/page.js",
+  "/error/page": "app/error/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/contact/page": "app/contact/page.js"
 }
